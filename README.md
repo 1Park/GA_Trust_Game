@@ -2,7 +2,7 @@
 #### 유전 알고리즘을 활용한 효율임금이론 고찰 및 반복적 신뢰 게임의 최적 전략 탐색
 
 
-- 2018 Daegu Science High School Scienkipia Research Contest **🥉 Bronze prize  (4th place)**
+- 2018 Daegu Science High School Scienkipia Research Contest **🥉 Bronze Medal  (4th place)**
 
 - DSHS Graduation Thesis (2019) 
 
