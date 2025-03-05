@@ -7,7 +7,7 @@
 - DSHS Graduation Thesis (2019) 
 
 
- * **Key Words** : `Game Theory` `Trust Game` `Prisoner's Dilemma` `Strategy`  `Genetic Algorithm` `Cooperation` `Efficiency Wage Theory` `Gift Exchange Model`
+ * **Key Words** : `Simulation` `Game Theory` `Trust Game` `Prisoner's Dilemma` `Strategy`  `Genetic Algorithm` `Cooperation` `Efficiency Wage Theory` `Gift Exchange Model`
 
 ## Abstract
   The research objects to find the best strategy of‘trust game’, one of the most renowned questions in game theory of microeconomics. Applying genetic algorithm to find the strategy, this study analyzes how the ratio of donations to an opponent changes as the generation progresses. Our Simulation have found that selfish entities can converge to cooperative strategy in particular condition. The results will help analyze the gift exchange model, one of the models of the existing efficiency wage theory.
@@ -22,4 +22,4 @@ Throughout the simulation, Strategies are merged, mutated and evolved.
 
 - **Core Algorithm** : `Genetic Algorithm`
 
-- **Domain** : `Microeconomics` `Game Theory`
+- **Domain** : `Simulation` `Microeconomics` `Game Theory`
